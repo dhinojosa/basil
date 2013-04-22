@@ -12,7 +12,9 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
+    <preferred.currency>EUR</preferred.currency>
+    <preferred.language>en_IE</preferred.language>
+ </properties>
 
   <dependencies>
     <dependency>
