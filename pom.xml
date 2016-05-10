@@ -7,7 +7,7 @@
    <packaging>jar</packaging>
 
    <name>basil</name>
-   <url>http://maven.apache.org</url>
+   <url>http://www.git-scm.com</url>
 
    <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
