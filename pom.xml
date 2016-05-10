@@ -13,6 +13,7 @@
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
    </properties>
 
+<!-- comment? -->
     <distributionManagement>
         <repository>
             <id>releases_repo</id>
