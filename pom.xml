@@ -1,6 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<<<<<<< HEAD
    <user>jshi</user>
    <modelVersion>4.0.3</modelVersion>
+=======
+   <modelVersion>4.0.0</modelVersion>
+>>>>>>> 26736999a66543dbe14d9080118ee6949084bce1
 
    <groupId>com.xyzcorp</groupId>
    <artifactId>basil</artifactId>
@@ -9,6 +13,7 @@
 
    <name>basil</name>
    <url>http://maven.apache.org</url>
+   <url>http://jennifer.chen/</url>
 
    <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -44,11 +49,11 @@
 
    <build>
       <plugins>
-	 <plugin>
-	    <groupId>org.apache.maven.plugins</groupId>
-	    <artifactId>maven-release-plugin</artifactId>
-	    <version>2.4.1.42</version>
-	 </plugin>
+	     <plugin>
+	        <groupId>org.apache.maven.plugins</groupId>
+	        <artifactId>maven-release-plugin</artifactId>
+	        <version>2.4.1</version>
+    	 </plugin>
       </plugins>
    </build>
 
