@@ -1,7 +1,1 @@
-target
-.idea
-.project
-.settings
-*.iml
-bin
-.classpath
+.gitignore
